@@ -9,7 +9,7 @@ require: php
 
 ## Usage
 
-php mysql2json.php -hlocalhost -Dtest -uroot -proot --execute="select * from feeds" 
+`php mysql2json.php -hlocalhost -Dtest -uroot -proot --execute="select * from feeds" `
 
 ## Contributing
 
