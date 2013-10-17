@@ -46,7 +46,8 @@ foreach($args as $arg) {
 		    : null)));
 }
 
-die("\r\nconnecting to: $username@$host:$database with sql: $sql\r\n");
+// debug
+// die("\r\nconnecting to: $username@$host:$database with sql: $sql\r\n");
 
 $encodable = array();
 
