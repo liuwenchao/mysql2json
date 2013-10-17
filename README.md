@@ -30,4 +30,3 @@ TODO: Write credits
 ## License
 
 MIT
->>>>>>> initial commit.
